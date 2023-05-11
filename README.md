@@ -16,13 +16,9 @@
 <img width="5%" src="./icons/mongodb.png">
 <img width="5%" src="./icons/sequelize.png">
 <img width="5%" src="./icons/postgreSQL.png">
-<img width="5%" src="./icons/heroku.png">
-<img width="5%" src="./icons/vercel.png">
 <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
 <img width="5%" src="./icons/postman.png">
-<img width="5%" src="./icons/webpack.png">
 <img width="5%" src="./icons/html-blanco.png">
-<img width="5%" src="./cons/css-blanco.png">
 </p>
 
 ## ✨ Projects ✨
